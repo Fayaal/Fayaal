@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Java, C#,C++**
 
-- 📫 How to reach me **fayaalpaakeer.info@gmail.com**
+- 📫 How to reach me **fayaalmpm@gmail.com**
     
 - ⚡ Fun fact **Call me as FYL**
 
