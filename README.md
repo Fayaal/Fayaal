@@ -86,14 +86,17 @@
 <tr border="none">
 <td width="50%" align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Fayaal&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fayaal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<br/>
   <br></br>
-  ![](https://nirzak-streak-stats.vercel.app/?user=Fayaal&theme=merko&hide_border=false)<br/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fayaal&layout=compact&langs_count=8&theme=algolia"/>
+<br/>
 </td>
 <td width="50%" align="center">
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaal&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
+ ![](https://github-readme-stats.vercel.app/api?username=Fayaal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fayaal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </td>
 </tr>
 </table>
@@ -101,10 +104,9 @@
 <table align="center">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Fayaal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Fayaal&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="center">
+  <img width="80%" src="https://github-trophies.vercel.app/?username=Fayaal&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" alt="Trophies" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
