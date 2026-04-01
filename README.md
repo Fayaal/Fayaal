@@ -71,10 +71,10 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://linkedin.com/in/fayaal-paakeer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="linkedin" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/fayaal-paakeer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/fayaal-paakeer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="instagram" height="50" width="50" /></a>
 <a href="https://www.facebook.com/fayaal.fyl/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg" alt="facebook" height="50" width="50" /></a>
-<a href="https://dribbble.com/Fayaal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/dribbble.svg" alt="dribbble" height="50" width="50" /></a>
+<a href="https://dribbble.com/Fayaal/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/dribbble.svg" alt="dribbble" height="50" width="50" /></a>
 </p>
 
 
